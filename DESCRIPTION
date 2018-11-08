@@ -4,7 +4,7 @@ Title: For analyzing light data
 Version: 0.1.0
 Author: Erin Reilly
 Maintainer: Erin Reilly <Ereilly@umces.edu>
-Description: calculate kd values, make plots etc.
+Description: calculate kd values, make plots etc. Data should have a unique id for each plot, Io, Iz, z, and boat depths.
 License: MIT
 Encoding: UTF-8
 LazyData: true
